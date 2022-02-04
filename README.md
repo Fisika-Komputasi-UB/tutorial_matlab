@@ -6,7 +6,7 @@ Repository ini berisi tutorial yang berisi perintah-perintah mendasar bahasa pem
 <details>
 <summary>Fundamental</summary>
 
-- [Membuat `Hello World`](tutorial_matlab/tree/main/tutorial/hello_world.m)
+- [Membuat `Hello World`](tutorial_matlab/blob/main/tutorial/hello_world.m)
 - [Meminta `input`](https://github.com/adh182/tutorial_matlab/blob/main/tutorial/input_.m)
 - [Membuat output dengan menggunakan `disp`](https://github.com/adh182/tutorial_matlab/blob/main/tutorial/disp_.m)
 - [Membuat matriks/array](https://github.com/adh182/tutorial_matlab/blob/main/tutorial/matriks.m)
